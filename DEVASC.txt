@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Estoy en la materia de Programacion de Cisco
+=======
+Estoy en la materia de Programacion de DevNet
+>>>>>>> test
+Estoy aprendiendo GIT
+Se agrego una nueva linea en la rama1
